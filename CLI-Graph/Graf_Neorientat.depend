@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587919452 source:c:\users\pasca\desktop\teme\graf_neorientat\graf.cpp
+	"Graf.h"
+	<iostream>
+
+1587919452 c:\users\pasca\desktop\teme\graf_neorientat\graf.h
+
+1587919637 source:c:\users\pasca\desktop\teme\graf_neorientat\main.cpp
+	<iostream>
+	"Graf.h"
+
+1589891404 source:c:\users\pasca\desktop\teme\pascal_marian_3123b_poograf\graf.cpp
+	"Graf.h"
+	<iostream>
+	<fstream>
+
+1589894955 c:\users\pasca\desktop\teme\pascal_marian_3123b_poograf\graf.h
+	<fstream>
+
+1589896814 source:c:\users\pasca\desktop\teme\pascal_marian_3123b_poograf\main.cpp
+	<iostream>
+	"Graf.h"
+	"GrafOrientat.h"
+	<fstream>
+
+1589895952 source:c:\users\pasca\desktop\teme\pascal_marian_3123b_poograf\graforientat.cpp
+	"GrafOrientat.h"
+	"Graf.h"
+	<iostream>
+
+1589894955 c:\users\pasca\desktop\teme\pascal_marian_3123b_poograf\graforientat.h
+	<iostream>
+	"Graf.h"
+
