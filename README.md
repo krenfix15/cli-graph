@@ -1,5 +1,11 @@
 # cli-graph
-Console line interface for a menu type graph application
+This is a console line interface for a menu type graph application.
+
+# To open the application:
+
+1. Download the project
+2. Compile the project
+3. Run the application
 
 # What I Learned
 
